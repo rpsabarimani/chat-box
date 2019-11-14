@@ -1,0 +1,27 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpsabarimani/chat-box.git"
+  },
+  "keywords": [
+    "chat",
+    "box",
+    "node",
+    "js",
+    "socket",
+    "io"
+  ],
+  "author": "Sabarimani Radhakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpsabarimani/chat-box/issues"
+  },
+  "homepage": "https://github.com/rpsabarimani/chat-box#readme"
+}
